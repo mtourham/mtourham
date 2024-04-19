@@ -11,7 +11,8 @@
 - 📫 How to reach me **tourhammedamine@gmail.com**
 
 - ⚡ Fun fact **I'm extremely outgoing**
-
+  
+<h3 align="left">My 42 student card:</h3>
 <p><img align="center" src="https://badge.mediaplus.ma/starryblue/mtourham" Alt="Mtourham's 42 Stats"/></p>
 
 <h3 align="left">Connect with me:</h3>
