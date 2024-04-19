@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <div style="align-items:center;">
-    <a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mtourham" alt="mtourham's 42 stats" /></a>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mtourham" alt="mtourham's 42 stats" /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
