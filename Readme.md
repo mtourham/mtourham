@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine TOURHAM 🥰</h1>
 <h3 align="center">A very cool software developer from Morocco 🇲🇦</h3>
 
-- 🔭 I’m currently working on **Music-Rooms**
+🔭 I’m currently working on **Music-Rooms**
 
-- 🌱 I’m currently learning **Golang**
+🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **C, C++ and Python**
+💬 Ask me about **C, C++ and Python**
 
-- 📫 How to reach me **tourhammedamine@gmail.com**
+📫 How to reach me **tourhammedamine@gmail.com**
 
-- ⚡ Fun fact **I'm extremely outgoing**
+⚡ Fun fact **I'm extremely outgoing**
   
 <h3>My 42 student card:</h3>
 <p><img align="center" src="https://badge.mediaplus.ma/starryblue/mtourham" Alt="Mtourham's 42 Stats"/></p>
