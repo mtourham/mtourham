@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **C, C++ and python**
+- 💬 Ask me about **C, C++ and Python**
 
 - 📫 How to reach me **tourhammedamine@gmail.com**
 
